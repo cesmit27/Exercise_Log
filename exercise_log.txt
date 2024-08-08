@@ -1,0 +1,24 @@
+Date: Aug 03, 2024 Time: 16:30
+Exercise: Sitting
+Intensity: Low
+Duration: 240 minutes
+Calories Burned: 960
+----------------------------------------
+Date: Aug 05, 2024 Time: 10:07
+Exercise: Swimming
+Intensity: Low
+Duration: 4 minutes
+Calories Burned: 16
+----------------------------------------
+Date: Aug 07, 2024 Time: 15:08
+Exercise: Basketball
+Intensity: Medium
+Duration: 42 minutes
+Calories Burned: 336
+----------------------------------------
+Date: Aug 08, 2024 Time: 13:09
+Exercise: Badmitton
+Intensity: High
+Duration: 1 minutes
+Calories Burned: 12
+----------------------------------------
